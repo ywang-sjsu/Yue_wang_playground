@@ -1,1 +1,3 @@
-# Yue_wang_playground
+# Yue's playground
+
+A place to play 'git'!
