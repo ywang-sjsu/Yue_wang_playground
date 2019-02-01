@@ -1,3 +1,3 @@
 # Yue's playground
 
-A place to play 'git'!
+A place to play `git`!
